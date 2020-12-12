@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Steve's writing samples
 
-You can use the [editor on GitHub](https://github.com/Steve-Tech-Wtr/writing-samples/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains three writing samples that I created during my contract assignment with the Microsoft Conversation Engineering team. The summary of these PDF documents are as follows:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Getting Started with Skills  
 
-### Markdown
+This writing sample is a “Hello World!” use case of a Cortana skill written in the Semantic Composition Language (SCL). Its purpose is to introduce to brand new Cortana skill developers the general concepts of a compositional flow. It describes at a high-level perspective the anatomy that makes up a Cortana skill and provides some general steps how to functionally test a skill in the Workspace IDE. I wrote 100% of this content based on the information requirements I gathered from the Conversation Engineering Program Manager and by creating a simple “Hello World!” skill in the Workspace IDE. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publishing  
 
-```markdown
-Syntax highlighted code block
+This writing sample is targeted to Cortana skills developers. Its purpose is to walk them through the features and concepts of publishing botlets to convert them into Cortana skills.  When a skills developer publishes a botlet to a group of internal users or to the "world" (i.e., external users), the botlet then becomes a Cortana skill. I wrote 100% of this content based on the information requirements I gathered from the Conversation Engineering Program Manager and by interacting with the Workspace IDE to document its various user interface features.  
 
-# Header 1
-## Header 2
-### Header 3
+### Using C # Code in your Botlet Logic  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Steve-Tech-Wtr/writing-samples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This writing sample and tutorial is targeted to Cortana skills developers. Its purpose is to demonstrate the steps on consuming an Azure App Service in a service botlet and the steps required for creating an ASP .NET web application. It further demonstrates how to create a C# class, deploy the service to Microsoft Azure, and how to test the web API in a service botlet using the Test Chat tool that is a feature of the Workspace IDE. I wrote approximately 50% of the content in this document. Initially, I consulted with the Conversation Engineering Program Manager to gather all the information requirements. Next, I consulted and engaged with the software developers on my team to acquire the steps for consuming the Azure App Service and how to create a C# class. The code samples used in this tutorial were written by the software developers. They also contributed to the Key Points section due to its interaction with the service botlet example and the use of a JSON schema. 
