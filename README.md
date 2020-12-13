@@ -1,5 +1,3 @@
-# writing-samples
-
 ## Overview
 
 This repository contains three writing samples that I created during my contract assignment with the Microsoft Conversation Engineering team. The summary of these PDF documents are as follows:
